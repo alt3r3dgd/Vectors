@@ -12,6 +12,7 @@ Feel absolutely free to suggest any math mistake correction or any functions I h
 2. Grab a jar
 3. In IntelliJ IDEA, open Project Structure (Ctrl+Alt+Shift+S)
 4. Navigate to Modules page, Dependencies tab
+- Also make sure you have selected the correct module in the list 
 5. Click the + button
 6. Select "JARs or directories..."
 7. Find the jar in the explorer and click it
