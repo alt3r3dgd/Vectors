@@ -1,3 +1,5 @@
+**This repo is no longer maintained. Visit alt3r3dgd/math instead.**
+
 # Vectors
 A Kotlin implementation of some vector math stuff
 
